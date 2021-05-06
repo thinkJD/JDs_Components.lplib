@@ -1,0 +1,10 @@
+(librepcb_library a2818131-e5ca-49d5-a65b-083eacc435e1
+ (name "JDs Components")
+ (description "Was ich so in der Bastelkiste habe")
+ (keywords "")
+ (author "thinkJD")
+ (version "0.1")
+ (created 2021-04-14T06:56:10Z)
+ (deprecated false)
+ (url "")
+)

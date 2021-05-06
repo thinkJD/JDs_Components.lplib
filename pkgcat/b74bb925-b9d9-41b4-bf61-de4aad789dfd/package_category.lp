@@ -1,0 +1,10 @@
+(librepcb_package_category b74bb925-b9d9-41b4-bf61-de4aad789dfd
+ (name "Breakouts")
+ (description "")
+ (keywords "")
+ (author "GEORGENS_JA")
+ (version "0.1")
+ (created 2021-05-05T09:25:14Z)
+ (deprecated false)
+ (parent none)
+)
